@@ -6,11 +6,13 @@ def fishing_game():
         "trout": 20,
         "shark": 500,
         "old_cd_disc": 0,
-        "zaza_fish": 30,
+        "alex_fish": 30,
         "rainbow_fish": 20,
         "rainbow_super_trout": 90,
         "hammershark": 40,
         "imperfect_salmon": 150,
+        "Daniel_fish": 1000
+        
     }
 
     inventory = []
