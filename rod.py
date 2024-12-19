@@ -1,4 +1,4 @@
-from ursinaimport *
+from ursina import *
 class Rod:
     def __init__(self, position=(0, 0, 0)):
         self.entity = entity(
